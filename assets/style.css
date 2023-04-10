@@ -72,6 +72,18 @@ table {
   text-align: left;
   background-color: #ffe1a6;
 }
+.column-entry-red-left {
+  text-align: left;
+  background-color: #ffd0d0;
+}
+.column-entry-green-left {
+  text-align: left;
+  background-color: #d0ffd0;
+}
+.column-entry-yellow-left {
+  text-align: left;
+  background-color: #ffe1a6;
+}
 .column-entry-0 {
   background-color: #ffffff;
 }
